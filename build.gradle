@@ -6,3 +6,4 @@ dependencies {
   testCompile 'junit:junit:4.11'
 }
 
+test.maxParallelForks = 6
